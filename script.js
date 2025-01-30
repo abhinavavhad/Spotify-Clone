@@ -10,8 +10,8 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Warriyo - Mortals", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
-    {songName: "Cielo - Huma-Huma", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "Warriyo Mortals", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "Cielo Huma-Huma", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
     {songName: "DEAF Invincible", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
     {songName: "Heaven - Heart", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Janji-Heroes", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
